@@ -1,7 +1,7 @@
 # BattleShip
 
 In this project we have developed the battleship game for 1 player vs Computer
-Please find the console results  in comment
+Please find the results  in OUTPUT.TXT
 
 Initially totalhits is the sum of the health of the ships.
 When there is a hit totalhits is decremented by 1
