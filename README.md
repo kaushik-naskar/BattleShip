@@ -13,6 +13,7 @@ When ever an unexpected condition is met CustomExceptiom is thrown
 **Example:
 
 Player's hit: Submarine is hit and remaining health 1 hits remainig :15
+
 Computer's hit: Your Submarine	is hit and health 2
 
 **Console outputs in OUTPUT.TXT.
