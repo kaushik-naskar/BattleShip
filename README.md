@@ -8,4 +8,4 @@ When there is a hit totalhits is decremented by 1
 
 player with totalHits == 0 wins
 
-NOTE: Results starting with Your are the hits made by the computer and the coordinates are generated randomly usinh Random
+NOTE: Results starting with Your are the hits made by the computer and the coordinates are generated randomly using Random
