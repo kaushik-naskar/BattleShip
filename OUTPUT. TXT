@@ -1,0 +1,113 @@
+____MY GRID____
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+Enter ship type : submarine 
+Enter alignment 'v'/'H' for vertical and horizontal respectively : v
+Enter starting x y cordinates : 0 0
+____MY GRID____
+Su	~	~	~	~	~	~	~	
+Su	~	~	~	~	~	~	~	
+Su	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+Enter ship type : carrier
+Enter alignment 'v'/'H' for vertical and horizontal respectively : v
+Enter starting x y cordinates : 0 1
+____MY GRID____
+Su	Ca	~	~	~	~	~	~	
+Su	Ca	~	~	~	~	~	~	
+Su	Ca	~	~	~	~	~	~	
+~	Ca	~	~	~	~	~	~	
+~	Ca	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+Enter ship type : destroyer
+Enter alignment 'v'/'H' for vertical and horizontal respectively : v 
+Enter starting x y cordinates : 0  3
+____MY GRID____
+Su	Ca	~	De	~	~	~	~	
+Su	Ca	~	De	~	~	~	~	
+Su	Ca	~	~	~	~	~	~	
+~	Ca	~	~	~	~	~	~	
+~	Ca	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+Enter ship type : battleship
+Enter alignment 'v'/'H' for vertical and horizontal respectively : v
+Enter starting x y cordinates : 0 4
+____MY GRID____
+Su	Ca	~	De	Ba	~	~	~	
+Su	Ca	~	De	Ba	~	~	~	
+Su	Ca	~	~	Ba	~	~	~	
+~	Ca	~	~	Ba	~	~	~	
+~	Ca	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+Enter ship type :  cruiser
+Enter alignment 'v'/'H' for vertical and horizontal respectively : v
+Enter starting x y cordinates : 0 5
+Su	Ca	~	De	Ba	Cr	~	~	
+Su	Ca	~	De	Ba	Cr	~	~	
+Su	Ca	~	~	Ba	Cr	~	~	
+~	Ca	~	~	Ba	~	~	~	
+~	Ca	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+~	~	~	~	~	~	~	~	
+Enter the x y coordinates0 1
+
+Submarine is hit and remaining health 2 hits remainig :16
+Enter the x y coordinates1 1
+
+Submarine is hit and remaining health 1 hits remainig :15
+Enter the x y coordinates1 2
+
+Enter the x y coordinates2 2
+
+Carrier is hit and remaining health 4 hits remainig :14
+Enter the x y coordinates2 3
+
+Enter the x y coordinates2 4
+
+Your Carrier	is hit and health 4
+Enter the x y coordinates2 5
+
+Enter the x y coordinates2 5
+
+Your Submarine	is hit and health 2
+Enter the x y coordinates2 6
+
+Enter the x y coordinates2 3
+
+Your Submarine	is hit and health 1
+Enter the x y coordinates3 2
+
+Carrier is hit and remaining health 3 hits remainig :13
+Enter the x y coordinates4 3
+
+Enter the x y coordinates4 2
+
+Carrier is hit and remaining health 2 hits remainig :12
+Enter the x y coordinates5 2
+
+Carrier is hit and remaining health 1 hits remainig :11
+Enter the x y coordinates6 2
+
+Carrier is Sunk 
+Enter the x y coordinates2 1
+
+Submarine is Sunk 
+Your Submarine	is Sunk 
+Enter the x y coordinates
